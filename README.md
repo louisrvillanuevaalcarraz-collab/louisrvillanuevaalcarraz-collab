@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hola, soy Louis Ricardo Villanueva
 
-<!--
-**louisrvillanuevaalcarraz-collab/louisrvillanuevaalcarraz-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Administración y Marketing (UPN).
 
-Here are some ideas to get you started:
+📊 Analista de datos en formación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tecnologías:
+
+- Python
+- Pandas
+- NumPy
+- Excel
+- Power BI
+- Git
+- GitHub
+
+🚀 Proyectos destacados:
+
+## 🛒 Proyecto de análisis de e-commerce
+
+- Limpieza de datos.
+- Análisis exploratorio.
+- Automatización de reportes.
+- Generación de archivos JSON.
+- Generación de archivos TXT.
+
+## 📈 Habilidades
+
+- Visualización de datos.
+- Automatización de procesos.
+- Inteligencia comercial.
+- Business Intelligence.
+
+## 📫 Contacto
+
+- LinkedIn.
