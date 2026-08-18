@@ -44,9 +44,3 @@
 ✔️ Resolución de problemas.
 
 ✔️ Aprendizaje continuo.
-
-## 📫 Conectemos
-
-💼 linkedin.com/in/louisvillaalcarraz/
-
-📧 louisrvillanuevaalcarraz@gmail.com
