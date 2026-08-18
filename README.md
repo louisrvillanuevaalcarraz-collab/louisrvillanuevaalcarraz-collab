@@ -1,36 +1,52 @@
-# 👋 Hola, soy Louis Ricardo Villanueva
+# 👋 ¡Hola! Soy Louis Ricardo Villanueva
 
-🎓 Estudiante de Administración y Marketing (UPN).
+🎓 Estudiante de Administración y Marketing en la Universidad Privada del Norte (UPN).
 
-📊 Analista de datos en formación.
+📊 Me apasiona el análisis de datos, la inteligencia de negocios y el marketing basado en datos. Disfruto transformar la información en conocimientos que permitan optimizar procesos, identificar oportunidades y apoyar la toma de decisiones.
 
-💻 Tecnologías:
+💡 Mi experiencia académica y profesional me ha permitido desarrollar una visión orientada a la mejora continua, la resolución de problemas y el análisis de información en diferentes entornos.
 
-- Python
-- Pandas
-- NumPy
-- Excel
-- Power BI
-- Git
-- GitHub
+## 🚀 Tecnologías y herramientas
 
-🚀 Proyectos destacados:
+🐍 Python | 📊 Pandas | 🔢 NumPy
 
-## 🛒 Proyecto de análisis de e-commerce
+📈 Power BI | 📋 Excel
 
-- Limpieza de datos.
-- Análisis exploratorio.
-- Automatización de reportes.
-- Generación de archivos JSON.
-- Generación de archivos TXT.
+🌿 Git | ☁️ GitHub
 
-## 📈 Habilidades
+## 📈 Áreas de interés
 
+- Análisis de datos.
+- Inteligencia de negocios.
+- Marketing analítico.
+- Desarrollo de dashboards con Power BI.
 - Visualización de datos.
 - Automatización de procesos.
-- Inteligencia comercial.
-- Business Intelligence.
+- Mejora continua.
 
-## 📫 Contacto
+## 📚 Actualmente estoy fortaleciendo mis conocimientos en
 
-- LinkedIn.
+- Ciencia de datos.
+- Modelado y transformación de datos.
+- Creación de indicadores (KPIs).
+- Power Query y DAX.
+- Visualización interactiva en Power BI.
+- Estrategias comerciales basadas en datos.
+
+## 🤝 Competencias
+
+✔️ Pensamiento analítico.
+
+✔️ Trabajo en equipo.
+
+✔️ Adaptabilidad.
+
+✔️ Resolución de problemas.
+
+✔️ Aprendizaje continuo.
+
+## 📫 Conectemos
+
+💼 linkedin.com/in/louisvillaalcarraz/
+
+📧 louisrvillanuevaalcarraz@gmail.com
